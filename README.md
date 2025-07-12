@@ -13,10 +13,7 @@
       - An eye for clean design & user-centric development.</li>
   <li>🧠 Always curious to explore new tech and apply it in creative ways</li>
   <li>📈 My Mission is to blend creativity and code to build remarkable digital experiences and to keep growing into the engineer who inspires others to do the same.</li>
-  <li>📬 Let's Connect: 
-  
-  📧 [Email me](mailto:sharmamanasvi644@gmail.com)
-  </li>
+  <li>📬 Let's Connect: <a href="https://www.linkedin.com/in/manasvi-sharma-7764ab24b/" target="_blank"> LinkdIn</a></li>
 </ul>
   
 <hr>
@@ -45,5 +42,8 @@
   </a>
   <a href="https://www.linkedin.com/in/manasvi-sharma-7764ab24b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto🇮🇳" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
