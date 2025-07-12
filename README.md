@@ -13,7 +13,7 @@
       - An eye for clean design & user-centric development.</li>
   <li>🧠 Always curious to explore new tech and apply it in creative ways</li>
   <li>📈 My Mission is to blend creativity and code to build remarkable digital experiences and to keep growing into the engineer who inspires others to do the same.</li>
-  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/manasvi-sharma-7764ab24b/" target="_blank"></a></li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/manasvi-sharma-7764ab24b/" target="_blank"> LinkedIn</a></li>
 </ul>
 <p>
   
